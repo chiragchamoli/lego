@@ -1,4 +1,8 @@
 lego - codeignighter getting started
 ====================================
 
-*View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
+This package include codeignighter 2.0 + HTML5 Boilerplate.
+
+Already includes jquery,json2,jQuery Templates,SimpleModal Templates,backbone.js
+
+Everything is seprate so you can remove what ever is not required. 
